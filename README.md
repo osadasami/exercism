@@ -6,3 +6,4 @@
 - [x] [Assembly Line](https://exercism.org/tracks/rust/exercises/assembly-line)
 - [x] [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)
 - [x] [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci)
+- [] [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)

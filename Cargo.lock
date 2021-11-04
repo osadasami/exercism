@@ -15,6 +15,10 @@ name = "hello-world"
 version = "1.1.0"
 
 [[package]]
+name = "low_power_embedded_game"
+version = "0.1.0"
+
+[[package]]
 name = "lucians-luscious-lasagna"
 version = "0.1.0"
 
