@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "rust/assembly-line",
+  "rust/hello-world",
+  "rust/lucians-luscious-lasagna",
+  "rust/semi-structured-logs",
+]
