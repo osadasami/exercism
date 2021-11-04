@@ -6,4 +6,5 @@ members = [
   "rust/semi-structured-logs",
   "rust/semi-structured-logs",
   "rust/health-statistics",
+  "rust/short-fibonacci",
 ]

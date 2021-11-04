@@ -5,3 +5,4 @@
 - [x] [Semi Structured Logs](https://exercism.org/tracks/rust/exercises/semi-structured-logs)
 - [x] [Assembly Line](https://exercism.org/tracks/rust/exercises/assembly-line)
 - [x] [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)
+- [] [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci)
