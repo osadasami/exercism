@@ -4,4 +4,6 @@ members = [
   "rust/hello-world",
   "rust/lucians-luscious-lasagna",
   "rust/semi-structured-logs",
+  "rust/semi-structured-logs",
+  "rust/health-statistics",
 ]
