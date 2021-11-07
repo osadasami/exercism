@@ -8,3 +8,4 @@
 - [x] [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci)
 - [x] [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
 - [x] [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
+- [] [Magazine Cutout](https://exercism.org/tracks/rust/exercises/magazine-cutout)
