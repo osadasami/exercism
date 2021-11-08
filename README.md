@@ -1,0 +1,1 @@
+- [ ] [Hello World](https://exercism.org/tracks/go/exercises/hello-world)
