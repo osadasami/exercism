@@ -9,3 +9,4 @@
 - [x] [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
 - [x] [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
 - [x] [Magazine Cutout](https://exercism.org/tracks/rust/exercises/magazine-cutout)
+- [] [RPN Calculator](https://exercism.org/tracks/rust/exercises/rpn-calculator)

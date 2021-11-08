@@ -10,4 +10,5 @@ members = [
   "rust/low-power-embedded-game",
   "rust/role-playing-game",
   "rust/magazine-cutout",
+  "rust/rpn-calculator",
 ]
