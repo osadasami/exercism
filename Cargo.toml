@@ -11,4 +11,5 @@ members = [
   "tasks/role-playing-game",
   "tasks/magazine-cutout",
   "tasks/rpn-calculator",
+  "tasks/reverse-string",
 ]
