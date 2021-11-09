@@ -10,4 +10,4 @@
 - [x] [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
 - [x] [Magazine Cutout](https://exercism.org/tracks/rust/exercises/magazine-cutout)
 - [x] [RPN Calculator](https://exercism.org/tracks/rust/exercises/rpn-calculator)
-- [ ] [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
+- [x] [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
