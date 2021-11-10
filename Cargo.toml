@@ -12,5 +12,5 @@ members = [
   "tasks/magazine-cutout",
   "tasks/rpn-calculator",
   "tasks/reverse-string",
-  "tasks/reverse-string/gigasecond",
+  "tasks/gigasecond",
 ]

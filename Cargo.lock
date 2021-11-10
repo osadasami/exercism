@@ -7,12 +7,25 @@ name = "assembly-line"
 version = "0.1.0"
 
 [[package]]
+name = "gigasecond"
+version = "2.0.0"
+dependencies = [
+ "time",
+]
+
+[[package]]
 name = "health_statistics"
 version = "0.1.0"
 
 [[package]]
 name = "hello-world"
 version = "1.1.0"
+
+[[package]]
+name = "libc"
+version = "0.2.107"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "fbe5e23404da5b4f555ef85ebed98fb4083e55a00c317800bc2a50ede9f3d219"
 
 [[package]]
 name = "low_power_embedded_game"
@@ -48,6 +61,15 @@ version = "0.1.0"
 [[package]]
 name = "short_fibonacci"
 version = "0.1.0"
+
+[[package]]
+name = "time"
+version = "0.3.4"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "99beeb0daeac2bd1e86ac2c21caddecb244b39a093594da1a661ec2060c7aedd"
+dependencies = [
+ "libc",
+]
 
 [[package]]
 name = "unicode-segmentation"
