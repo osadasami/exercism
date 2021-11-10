@@ -11,3 +11,4 @@
 - [x] [Magazine Cutout](https://exercism.org/tracks/rust/exercises/magazine-cutout)
 - [x] [RPN Calculator](https://exercism.org/tracks/rust/exercises/rpn-calculator)
 - [x] [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
+- [ ] [Gigasecond](https://exercism.org/tracks/rust/exercises/gigasecond)
