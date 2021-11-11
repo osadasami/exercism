@@ -3,3 +3,4 @@
 - [x] [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
 - [x] [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
 - [x] [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
+- [ ] [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
