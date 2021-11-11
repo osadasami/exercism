@@ -2,4 +2,4 @@
 - [x] [Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)
 - [x] [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
 - [x] [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
-- [ ] [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
+- [x] [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
