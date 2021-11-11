@@ -1,4 +1,4 @@
 - [x] [Hello World](https://exercism.org/tracks/go/exercises/hello-world)
 - [x] [Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)
 - [x] [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
-- [ ] [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
+- [x] [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
