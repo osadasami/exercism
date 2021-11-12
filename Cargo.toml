@@ -13,4 +13,5 @@ members = [
   "tasks/rpn-calculator",
   "tasks/reverse-string",
   "tasks/gigasecond",
+  "tasks/beer-song",
 ]
