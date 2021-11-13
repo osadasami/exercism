@@ -4,4 +4,4 @@
 - [x] [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
 - [x] [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
 - [x] [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
-- [ ] [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
+- [x] [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
