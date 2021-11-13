@@ -5,3 +5,4 @@
 - [x] [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
 - [x] [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
 - [x] [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
+- [x] [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)
