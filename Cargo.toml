@@ -1,0 +1,17 @@
+[workspace]
+members = [
+  "tasks/assembly-line",
+  "tasks/hello-world",
+  "tasks/lucians-luscious-lasagna",
+  "tasks/semi-structured-logs",
+  "tasks/semi-structured-logs",
+  "tasks/health-statistics",
+  "tasks/short-fibonacci",
+  "tasks/low-power-embedded-game",
+  "tasks/role-playing-game",
+  "tasks/magazine-cutout",
+  "tasks/rpn-calculator",
+  "tasks/reverse-string",
+  "tasks/gigasecond",
+  "tasks/beer-song",
+]
