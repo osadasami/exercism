@@ -1,0 +1,8 @@
+- [x] [Hello World](https://exercism.org/tracks/go/exercises/hello-world)
+- [x] [Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)
+- [x] [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
+- [x] [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
+- [x] [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
+- [x] [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
+- [x] [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
+- [x] [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)
