@@ -13,3 +13,4 @@
 - [x] [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
 - [x] [Gigasecond](https://exercism.org/tracks/rust/exercises/gigasecond)
 - [x] [Beer Song](https://exercism.org/tracks/rust/exercises/beer-song)
+- [ ] [Armstrong Numbers](https://exercism.org/tracks/rust/exercises/armstrong-numbers)
