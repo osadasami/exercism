@@ -1,18 +1,10 @@
 class LogLineParser
+  attr_reader :log_level, :message
   def initialize(line)
-    @line = line
-  end
-
-  def message
-    @line.split(':').last.strip
-  end
-
-  def log_level
-    @line.split(':')
-      .first
-      .gsub('[', '')
-      .gsub(']', '')
-      .downcase
+    parsed = /\[(?<log_level>[A-Z]+)\]:\s*(?<message>[\w|\s]+)/.match(line)
+    
+    @log_level = parsed[:log_level].downcase
+    @message = parsed[:message].strip
   end
 
   def reformat
