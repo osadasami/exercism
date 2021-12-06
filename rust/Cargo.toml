@@ -15,4 +15,5 @@ members = [
   "gigasecond",
   "beer-song",
   "armstrong-numbers",
+  "resistor-color",
 ]

@@ -1,7 +1,8 @@
-=begin
-Write your code for the 'Diamond' exercise in this file. Make the tests in
-`diamond_test.rb` pass.
+class Diamond
+	def make_diamond(letter)
+		return 'A' if letter == 'A'
 
-To get started with TDD, see the `README.md` file in your
-`ruby/diamond` directory.
-=end
+		letters = ('A'..letter).to_a
+		rows_n = letters.size - 1
+	end
+end
